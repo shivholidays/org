@@ -1,0 +1,16 @@
+/node_modules
+/dist
+/.env
+/package-lock.json
+/.DS_Store
+/.vite
+/.idea
+/.vscode
+/.history
+/.nyc_output
+/coverage
+/.turbo
+/.pnp.cjs
+/.pnp.loader.mjs
+/.yarn/*
+!.yarn/releases

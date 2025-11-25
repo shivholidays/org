@@ -1,0 +1,6113 @@
+[
+	{
+		"id" : 30,
+		"package_id" : 11,
+		"city_name" : "Mahabaleshwar",
+		"sight_name" : "Old Mahabaleshwar",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 31,
+		"package_id" : 11,
+		"city_name" : "Mahabaleshwar",
+		"sight_name" : "Panch Ganga Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 32,
+		"package_id" : 11,
+		"city_name" : "Mahabaleshwar",
+		"sight_name" : "Lord Shiva Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 33,
+		"package_id" : 11,
+		"city_name" : "Mahabaleshwar",
+		"sight_name" : "Kates Point",
+		"image_url" : "/images/mahabaleshwar_katespoint.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 34,
+		"package_id" : 11,
+		"city_name" : "Mahabaleshwar",
+		"sight_name" : "Echo Point",
+		"image_url" : "/images/mahabaleshwar_echopoint.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 35,
+		"package_id" : 11,
+		"city_name" : "Mahabaleshwar",
+		"sight_name" : "Needle Hole Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 36,
+		"package_id" : 11,
+		"city_name" : "Panchgani",
+		"sight_name" : "Parsi Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 37,
+		"package_id" : 11,
+		"city_name" : "Panchgani",
+		"sight_name" : "Table Land",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 38,
+		"package_id" : 11,
+		"city_name" : "Panchgani",
+		"sight_name" : "Strawberry Garden",
+		"image_url" : "/images/panchgani_strawberrygarden.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 39,
+		"package_id" : 11,
+		"city_name" : "Panchgani",
+		"sight_name" : "Jam Factory",
+		"image_url" : "/images/panchgani_jamfactory.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 40,
+		"package_id" : 11,
+		"city_name" : "Panchgani",
+		"sight_name" : "Mapro Garden(extra charges)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 41,
+		"package_id" : 11,
+		"city_name" : "Pratapgarh",
+		"sight_name" : "Bhavani Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 42,
+		"package_id" : 11,
+		"city_name" : "Pratapgarh",
+		"sight_name" : "Pratap Singh Garden",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 43,
+		"package_id" : 11,
+		"city_name" : "Pratapgarh",
+		"sight_name" : "Shivaji Statue",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 44,
+		"package_id" : 12,
+		"city_name" : "Bangalore",
+		"sight_name" : "Bull Temple",
+		"image_url" : "/images/bangalore_bulltemple.jpeg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 45,
+		"package_id" : 12,
+		"city_name" : "Bangalore",
+		"sight_name" : "Tippu’s Palace",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 46,
+		"package_id" : 12,
+		"city_name" : "Bangalore",
+		"sight_name" : "Lalbagh",
+		"image_url" : "/images/bangalore_lalbagh.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 47,
+		"package_id" : 12,
+		"city_name" : "Bangalore",
+		"sight_name" : "Cubbon Park",
+		"image_url" : "/images/bangalore_cubbonpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 48,
+		"package_id" : 12,
+		"city_name" : "Bangalore",
+		"sight_name" : "Vishweshwaraih Technical Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 49,
+		"package_id" : 12,
+		"city_name" : "Bangalore",
+		"sight_name" : "Venkatappa Art Gallery",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 50,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Mysore Palace",
+		"image_url" : "/images/mysore_mysorepalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 51,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Sri Ranganatha Temple",
+		"image_url" : "/images/mysore_ranganathaswamytemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 52,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Tippu’s Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 53,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Gumbuz",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 54,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Tippu’s Summer Palace",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 55,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Saint Philomena’s Church",
+		"image_url" : "/images/mysore_philomenaschurch.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 56,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Art Gallery",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 57,
+		"package_id" : 12,
+		"city_name" : "Mysore",
+		"sight_name" : "Brindavan Garden",
+		"image_url" : "/images/mysore_brindavangarden.JPG",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 58,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Omkareshwara Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 59,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Raja Seat",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 60,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Dubare Elephant Camp",
+		"image_url" : "/images/coorg_dubareelephantcamp.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 61,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Namdroling Monastery Golden Temple",
+		"image_url" : "/images/coorg_namdroling.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 62,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Bhagamandala",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 63,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Abbey Falls",
+		"image_url" : "/images/coorg_abbeyfalls.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 64,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Madikeri Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 65,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Tea or coffee estates",
+		"image_url" : "/images/coorg_coffeeplantation.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 66,
+		"package_id" : 12,
+		"city_name" : "Coorg",
+		"sight_name" : "Nisargadhama",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 67,
+		"package_id" : 13,
+		"city_name" : "Bangalore",
+		"sight_name" : "Bull Temple",
+		"image_url" : "/images/bangalore_bulltemple.jpeg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 68,
+		"package_id" : 13,
+		"city_name" : "Bangalore",
+		"sight_name" : "Tippu’s Palace",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 69,
+		"package_id" : 13,
+		"city_name" : "Bangalore",
+		"sight_name" : "Lalbagh",
+		"image_url" : "/images/bangalore_lalbagh.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 70,
+		"package_id" : 13,
+		"city_name" : "Bangalore",
+		"sight_name" : "Cubbon Park",
+		"image_url" : "/images/bangalore_cubbonpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 71,
+		"package_id" : 13,
+		"city_name" : "Bangalore",
+		"sight_name" : "Vishweshwaraih Technical Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 72,
+		"package_id" : 13,
+		"city_name" : "Bangalore",
+		"sight_name" : "Venkatappa Art Gallery",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 73,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Mysore Palace",
+		"image_url" : "/images/mysore_mysorepalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 74,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Sri Ranganatha Temple",
+		"image_url" : "/images/mysore_ranganathaswamytemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 75,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Tippu’s Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 76,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Gumbuz",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 77,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Tippu’s Summer Palace",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 78,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Saint Philomena’s Church",
+		"image_url" : "/images/mysore_philomenaschurch.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 80,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Brindavan Garden",
+		"image_url" : "/images/mysore_brindavangarden.JPG",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 81,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Nanjundeshwar Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 82,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Bandipura Wild Life Sanctuary",
+		"image_url" : "/images/ooty_bandipur.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 83,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Madumalai Forest",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 84,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Pykara Dam",
+		"image_url" : "/images/ooty_pykaradam.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 85,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Kamraj Sagar",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 86,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty Botanical Garden",
+		"image_url" : "/images/ooty_botanicalgarden.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 87,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 88,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty town",
+		"image_url" : "/images/ooty_town.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 89,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Shopping",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 90,
+		"package_id" : 13,
+		"city_name" : "Ooty",
+		"sight_name" : "Dodabetta Peak",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 91,
+		"package_id" : 14,
+		"city_name" : "Bangalore",
+		"sight_name" : "Bull Temple",
+		"image_url" : "/images/bangalore_bulltemple.jpeg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 92,
+		"package_id" : 14,
+		"city_name" : "Bangalore",
+		"sight_name" : "Tippu’s Palace",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 93,
+		"package_id" : 14,
+		"city_name" : "Bangalore",
+		"sight_name" : "Lalbagh",
+		"image_url" : "/images/bangalore_lalbagh.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 94,
+		"package_id" : 14,
+		"city_name" : "Bangalore",
+		"sight_name" : "Cubbon Park",
+		"image_url" : "/images/bangalore_cubbonpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 95,
+		"package_id" : 14,
+		"city_name" : "Bangalore",
+		"sight_name" : "Vishweshwaraih Technical Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 96,
+		"package_id" : 14,
+		"city_name" : "Bangalore",
+		"sight_name" : "Venkatappa Art Gallery",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 97,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Mysore Palace",
+		"image_url" : "/images/mysore_mysorepalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 98,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Sri Ranganatha Temple",
+		"image_url" : "/images/mysore_ranganathaswamytemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 99,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Tippu’s Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 100,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Gumbuz",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 101,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Tippu’s Summer Palace",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 102,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Saint Philomena’s Church",
+		"image_url" : "/images/mysore_philomenaschurch.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 103,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Art Gallery",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 104,
+		"package_id" : 14,
+		"city_name" : "Mysore",
+		"sight_name" : "Brindavan Garden",
+		"image_url" : "/images/mysore_brindavangarden.JPG",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 105,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Toy Train",
+		"image_url" : "/images/ooty_toytrain.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 106,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Nanjundeshwar Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 107,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Bandipura Wild Life Sanctuary",
+		"image_url" : "/images/ooty_bandipur.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 108,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Madumalai Forest",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 109,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Pykara Dam",
+		"image_url" : "/images/ooty_pykaradam.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 110,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Kamraj Sagar",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 111,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty Botanical Garden",
+		"image_url" : "/images/ooty_botanicalgarden.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 112,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 113,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty town",
+		"image_url" : "/images/ooty_town.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 114,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Shopping",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 115,
+		"package_id" : 14,
+		"city_name" : "Ooty",
+		"sight_name" : "Dodabetta Peak",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 116,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Avalanche",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 117,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Dolphin nose",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 118,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Sim’s Park",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 119,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Ketty Valley",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 120,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Kodanadu point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 121,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Lamb’s rock",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 122,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Tea gardens",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 123,
+		"package_id" : 14,
+		"city_name" : "Coonor",
+		"sight_name" : "Todamund",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 124,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Dum Dum Falls",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 125,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Shen Begnur Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 126,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Coaker’s Walk",
+		"image_url" : "/images/kodai_coakerswalk.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 127,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "The Pillar",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 128,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Rocks",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 129,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Green Valley",
+		"image_url" : "/images/kodai_greenvalley.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 130,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Solar Physical Observatory",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 131,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Telescope House",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 132,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Shola Falls",
+		"image_url" : "/images/kodai_sholafalls.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 133,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Bryant Park",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 134,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Devils Kitchen",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 135,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Golf Course",
+		"image_url" : "/images/kodai_golfcourse.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 136,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Pine Forest",
+		"image_url" : "/images/kodai_pineforest.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 137,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Major Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 138,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Silent Valley View",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 139,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Kodai Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 140,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Karunji Andavar Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 141,
+		"package_id" : 14,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Chettiar Park",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 142,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Toy Train",
+		"image_url" : "/images/ooty_toytrain.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 143,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Nanjundeshwar Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 144,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Bandipura Wild Life Sanctuary",
+		"image_url" : "/images/ooty_bandipur.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 145,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Madumalai Forest",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 146,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Pykara Dam",
+		"image_url" : "/images/ooty_pykaradam.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 147,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Kamraj Sagar",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 148,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty Botanical Garden",
+		"image_url" : "/images/ooty_botanicalgarden.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 149,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 150,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Ooty town",
+		"image_url" : "/images/ooty_town.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 151,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Shopping",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 152,
+		"package_id" : 15,
+		"city_name" : "Ooty",
+		"sight_name" : "Dodabetta Peak",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 153,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Avalanche",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 154,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Dolphin Nose",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 155,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Sim’s Park",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 156,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Ketty Valley",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 157,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Kodanadu Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 158,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Lamb’s Rock",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 159,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Tea Gardens",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 160,
+		"package_id" : 15,
+		"city_name" : "Coonor",
+		"sight_name" : "Todamund",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 161,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Dum Dum Falls",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 162,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Shen Begnur Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 163,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Coaker’s Walk",
+		"image_url" : "/images/kodai_coakerswalk.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 164,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "The Pillar",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 165,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Rocks",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 166,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Green Valley",
+		"image_url" : "/images/kodai_greenvalley.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 167,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Solar Physical Observatory",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 168,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Telescope House",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 169,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Shola Falls",
+		"image_url" : "/images/kodai_sholafalls.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 170,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Bryant Park",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 171,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Devils Kitchen",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 172,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Golf Course",
+		"image_url" : "/images/kodai_golfcourse.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 173,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Pine Forest",
+		"image_url" : "/images/kodai_pineforest.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 174,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Major Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 175,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Silent Valley View",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 176,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Kodai Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 177,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Karunji Andavar Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 178,
+		"package_id" : 15,
+		"city_name" : "Kodaikanal",
+		"sight_name" : "Chettiar Park",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 179,
+		"package_id" : 16,
+		"city_name" : "Cochin",
+		"sight_name" : "Chinese Fishing Nets",
+		"image_url" : "/images/coachin_chinesefishingnets.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 180,
+		"package_id" : 16,
+		"city_name" : "Cochin",
+		"sight_name" : "Fort Cochin",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 181,
+		"package_id" : 16,
+		"city_name" : "Cochin",
+		"sight_name" : "Mattancherry Dutch Palace and Jewish Synagogue",
+		"image_url" : "/images/coachin_mattancherrypalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 182,
+		"package_id" : 16,
+		"city_name" : "Cochin",
+		"sight_name" : "Kochi Beach",
+		"image_url" : "/images/coachin_beach.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 183,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Mattupettu Dam",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 184,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Echo Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 185,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Rajamala Eravikulam National Park",
+		"image_url" : "/images/munnar_eravikulamnationalpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 186,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Lake",
+		"image_url" : "/images/munnar_kundalalake.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 187,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Tea Plantations",
+		"image_url" : "/images/munnar_teaplantations.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 188,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Valara",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 189,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Karadippara View Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 190,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Cheeyaparra Waterfall",
+		"image_url" : "/images/munnar_cheeyapparawaterfall.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 191,
+		"package_id" : 16,
+		"city_name" : "Munnar",
+		"sight_name" : "Rubber and Pineapple Plantations",
+		"image_url" : "/images/munnar_rubberplantation.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 192,
+		"package_id" : 16,
+		"city_name" : "Alleppey",
+		"sight_name" : "Motor Boat Cruise through the Backwaters of Kerala (extra cost)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 193,
+		"package_id" : 16,
+		"city_name" : "Alleppey",
+		"sight_name" : "Overnight Stay in Houseboat (extra cost includes all meals)",
+		"image_url" : "/images/alleppey_houseboat.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 194,
+		"package_id" : 16,
+		"city_name" : "Thekkady",
+		"sight_name" : "Periyar National Park",
+		"image_url" : "/images/thekkady_periyarnationalpark.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 195,
+		"package_id" : 16,
+		"city_name" : "Thekkady",
+		"sight_name" : "Periyar Lake (boating extra cost)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 196,
+		"package_id" : 16,
+		"city_name" : "Thekkady",
+		"sight_name" : "Extra cost for activities such as Spice Plantation Tour",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 197,
+		"package_id" : 16,
+		"city_name" : "Thekkady",
+		"sight_name" : "Bamboo Rafting",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 198,
+		"package_id" : 16,
+		"city_name" : "Thekkady",
+		"sight_name" : "Elephant Ride",
+		"image_url" : "/images/thekkady_elephantride.jpeg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 199,
+		"package_id" : 16,
+		"city_name" : "Thekkady",
+		"sight_name" : "Trekking",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 200,
+		"package_id" : 17,
+		"city_name" : "Bangalore",
+		"sight_name" : "Bull Temple",
+		"image_url" : "/images/bangalore_bulltemple.jpeg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 201,
+		"package_id" : 17,
+		"city_name" : "Bangalore",
+		"sight_name" : "Tippu’s Palace",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 202,
+		"package_id" : 17,
+		"city_name" : "Bangalore",
+		"sight_name" : "Lalbagh",
+		"image_url" : "/images/bangalore_lalbagh.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 203,
+		"package_id" : 17,
+		"city_name" : "Bangalore",
+		"sight_name" : "Cubbon Park",
+		"image_url" : "/images/bangalore_cubbonpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 204,
+		"package_id" : 17,
+		"city_name" : "Bangalore",
+		"sight_name" : "Vishweshwaraiah Technical Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 205,
+		"package_id" : 17,
+		"city_name" : "Bangalore",
+		"sight_name" : "Venkatappa Art Gallery",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 206,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Omkareshwara Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 207,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Raja Seat",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 208,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Dubare Elephant Camp",
+		"image_url" : "/images/coorg_dubareelephantcamp.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 209,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Namdroling Monastery Golden Temple",
+		"image_url" : "/images/coorg_namdroling.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 210,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Bhagamandala",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 211,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Abbey Falls",
+		"image_url" : "/images/coorg_abbeyfalls.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 212,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Madikeri Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 213,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Tea or Coffee Estates",
+		"image_url" : "/images/coorg_coffeeplantation.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 214,
+		"package_id" : 17,
+		"city_name" : "Coorg",
+		"sight_name" : "Nisargadhama",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 215,
+		"package_id" : 17,
+		"city_name" : "Wayanad",
+		"sight_name" : "Edakkal Caves",
+		"image_url" : "/images/wayanad_edakkalcaves.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 216,
+		"package_id" : 17,
+		"city_name" : "Wayanad",
+		"sight_name" : "View Point",
+		"image_url" : "/images/wayanad_LakkidiViewPoint.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 217,
+		"package_id" : 17,
+		"city_name" : "Wayanad",
+		"sight_name" : "Chain Tree",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 218,
+		"package_id" : 17,
+		"city_name" : "Wayanad",
+		"sight_name" : "Pookat Lake",
+		"image_url" : "/images/wayanad_pookotlake.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 219,
+		"package_id" : 17,
+		"city_name" : "Wayanad",
+		"sight_name" : "Meenmutti Falls",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 220,
+		"package_id" : 17,
+		"city_name" : "Wayanad",
+		"sight_name" : "Kuruvadweep Island",
+		"image_url" : "/images/wayanad_kuruvadweep.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 221,
+		"package_id" : 18,
+		"city_name" : "Cochin",
+		"sight_name" : "Chinese Fishing Nets",
+		"image_url" : "/images/coachin_chinesefishingnets.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 222,
+		"package_id" : 18,
+		"city_name" : "Cochin",
+		"sight_name" : "Fort Cochin",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 223,
+		"package_id" : 18,
+		"city_name" : "Cochin",
+		"sight_name" : "Mattancherry Dutch Palace and Jewish Synagogue",
+		"image_url" : "/images/coachin_mattancherrypalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 224,
+		"package_id" : 18,
+		"city_name" : "Cochin",
+		"sight_name" : "Kochi Beach",
+		"image_url" : "/images/coachin_beach.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 225,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Mattupettu Dam",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 226,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Echo Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 227,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Rajamala Eravikulam National Park",
+		"image_url" : "/images/munnar_eravikulamnationalpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 228,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Lake",
+		"image_url" : "/images/munnar_kundalalake.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 229,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Tea Plantations",
+		"image_url" : "/images/munnar_teaplantations.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 230,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Valara",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 231,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Karadippara View Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 232,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Cheeyaparra Waterfall",
+		"image_url" : "/images/munnar_cheeyapparawaterfall.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 233,
+		"package_id" : 18,
+		"city_name" : "Munnar",
+		"sight_name" : "Rubber and Pineapple Plantations",
+		"image_url" : "/images/munnar_rubberplantation.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 234,
+		"package_id" : 18,
+		"city_name" : "Alleppey",
+		"sight_name" : "Motor Boat Cruise through the Backwaters of Kerala (extra cost)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 235,
+		"package_id" : 18,
+		"city_name" : "Alleppey",
+		"sight_name" : "Overnight Stay in Houseboat (extra cost includes all meals)",
+		"image_url" : "/images/alleppey_houseboat.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 236,
+		"package_id" : 18,
+		"city_name" : "Thekkady",
+		"sight_name" : "Periyar National Park",
+		"image_url" : "/images/thekkady_periyarnationalpark.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 237,
+		"package_id" : 18,
+		"city_name" : "Thekkady",
+		"sight_name" : "Periyar Lake (boating extra cost)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 238,
+		"package_id" : 18,
+		"city_name" : "Thekkady",
+		"sight_name" : "Extra cost for activities such as Spice Plantation Tour",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 239,
+		"package_id" : 18,
+		"city_name" : "Thekkady",
+		"sight_name" : "Bamboo Rafting",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 240,
+		"package_id" : 18,
+		"city_name" : "Thekkady",
+		"sight_name" : "Elephant Ride",
+		"image_url" : "/images/thekkady_elephantride.jpeg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 241,
+		"package_id" : 18,
+		"city_name" : "Thekkady",
+		"sight_name" : "Trekking",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 242,
+		"package_id" : 18,
+		"city_name" : "Kovalam",
+		"sight_name" : "Shree Padmanabha Temple",
+		"image_url" : "/images/kovalam_padmanabhaswamytemple.cms.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 243,
+		"package_id" : 18,
+		"city_name" : "Kovalam",
+		"sight_name" : "Museum Complex",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 244,
+		"package_id" : 18,
+		"city_name" : "Kovalam",
+		"sight_name" : "Kovalam Beach",
+		"image_url" : "/images/kovalam_beach.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 245,
+		"package_id" : 18,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Suchindram Temple",
+		"image_url" : "/images/kanyakumari_suchindramtemple.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 246,
+		"package_id" : 18,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Vivekananda Rock",
+		"image_url" : "/images/kanyakumari_vivekanandarock.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 247,
+		"package_id" : 18,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Sri Kanyakumari Amman Temple",
+		"image_url" : "/images/kanyakumari_ammantemple.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 248,
+		"package_id" : 18,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Wax Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 249,
+		"package_id" : 18,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Sunset at Kanyakumari Beach",
+		"image_url" : "/images/kanyakumari_sunset.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 250,
+		"package_id" : 19,
+		"city_name" : "Cochin",
+		"sight_name" : "Chinese Fishing Nets",
+		"image_url" : "/images/coachin_chinesefishingnets.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 251,
+		"package_id" : 19,
+		"city_name" : "Cochin",
+		"sight_name" : "Fort Cochin",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 252,
+		"package_id" : 19,
+		"city_name" : "Cochin",
+		"sight_name" : "Mattancherry Dutch Palace and Jewish Synagogue",
+		"image_url" : "/images/coachin_mattancherrypalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 253,
+		"package_id" : 19,
+		"city_name" : "Cochin",
+		"sight_name" : "Kochi Beach",
+		"image_url" : "/images/coachin_beach.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 254,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Mattupettu Dam",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 255,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Echo Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 256,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Rajamala Eravikulam National Park",
+		"image_url" : "/images/munnar_eravikulamnationalpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 257,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Lake",
+		"image_url" : "/images/munnar_kundalalake.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 258,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Tea Plantations",
+		"image_url" : "/images/munnar_teaplantations.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 259,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Valara",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 260,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Karadippara View Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 261,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Cheeyaparra Waterfall",
+		"image_url" : "/images/munnar_cheeyapparawaterfall.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 262,
+		"package_id" : 19,
+		"city_name" : "Munnar",
+		"sight_name" : "Rubber and Pineapple Plantations",
+		"image_url" : "/images/munnar_rubberplantation.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 263,
+		"package_id" : 19,
+		"city_name" : "Alleppey",
+		"sight_name" : "Motor Boat Cruise through the Backwaters of Kerala (extra cost)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 264,
+		"package_id" : 19,
+		"city_name" : "Alleppey",
+		"sight_name" : "Overnight Stay in Houseboat (extra cost includes all meals)",
+		"image_url" : "/images/alleppey_houseboat.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 265,
+		"package_id" : 19,
+		"city_name" : "Thekkady",
+		"sight_name" : "Periyar National Park",
+		"image_url" : "/images/thekkady_periyarnationalpark.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 266,
+		"package_id" : 19,
+		"city_name" : "Thekkady",
+		"sight_name" : "Periyar Lake (boating extra cost)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 267,
+		"package_id" : 19,
+		"city_name" : "Thekkady",
+		"sight_name" : "Extra cost for activities such as Spice Plantation Tour",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 268,
+		"package_id" : 19,
+		"city_name" : "Thekkady",
+		"sight_name" : "Bamboo Rafting",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 269,
+		"package_id" : 19,
+		"city_name" : "Thekkady",
+		"sight_name" : "Elephant Ride",
+		"image_url" : "/images/thekkady_elephantride.jpeg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 270,
+		"package_id" : 19,
+		"city_name" : "Thekkady",
+		"sight_name" : "Trekking",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 271,
+		"package_id" : 19,
+		"city_name" : "Kovalam",
+		"sight_name" : "Shree Padmanabha Temple",
+		"image_url" : "/images/kovalam_padmanabhaswamytemple.cms.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 272,
+		"package_id" : 19,
+		"city_name" : "Kovalam",
+		"sight_name" : "Museum Complex",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 273,
+		"package_id" : 19,
+		"city_name" : "Kovalam",
+		"sight_name" : "Kovalam Beach",
+		"image_url" : "/images/kovalam_beach.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 274,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Mattupettu Dam",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 275,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Echo Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 276,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Rajamala Eravikulam National Park",
+		"image_url" : "/images/munnar_eravikulamnationalpark.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 277,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Lake",
+		"image_url" : "/images/munnar_kundalalake.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 278,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Kundala Tea Plantations",
+		"image_url" : "/images/munnar_teaplantations.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 279,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Valara",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 280,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Karadippara View Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 281,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Cheeyaparra Waterfall",
+		"image_url" : "/images/munnar_cheeyapparawaterfall.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 282,
+		"package_id" : 20,
+		"city_name" : "Munnar",
+		"sight_name" : "Rubber and Pineapple Plantations",
+		"image_url" : "/images/munnar_rubberplantation.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 283,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Omkareshwara Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 284,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Raja Seat",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 285,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Dubare Elephant Camp",
+		"image_url" : "/images/coorg_dubareelephantcamp.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 286,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Namdroling Monastery Golden Temple",
+		"image_url" : "/images/coorg_namdroling.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 287,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Bhagamandala",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 288,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Abbey Falls",
+		"image_url" : "/images/coorg_abbeyfalls.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 289,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Madikeri Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 290,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Tea or Coffee Estates",
+		"image_url" : "/images/coorg_coffeeplantation.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 291,
+		"package_id" : 21,
+		"city_name" : "Coorg",
+		"sight_name" : "Nisargadhama",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 292,
+		"package_id" : 21,
+		"city_name" : "Wayanad",
+		"sight_name" : "Edakkal Caves",
+		"image_url" : "/images/wayanad_edakkalcaves.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 293,
+		"package_id" : 21,
+		"city_name" : "Wayanad",
+		"sight_name" : "View Point",
+		"image_url" : "/images/wayanad_LakkidiViewPoint.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 294,
+		"package_id" : 21,
+		"city_name" : "Wayanad",
+		"sight_name" : "Chain Tree",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 295,
+		"package_id" : 21,
+		"city_name" : "Wayanad",
+		"sight_name" : "Pookat Lake",
+		"image_url" : "/images/wayanad_pookotlake.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 296,
+		"package_id" : 21,
+		"city_name" : "Wayanad",
+		"sight_name" : "Meenmutti Falls",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 297,
+		"package_id" : 21,
+		"city_name" : "Wayanad",
+		"sight_name" : "Kuruvadweep Island",
+		"image_url" : "/images/wayanad_kuruvadweep.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 298,
+		"package_id" : 22,
+		"city_name" : "South Goa",
+		"sight_name" : "Miramar",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 299,
+		"package_id" : 22,
+		"city_name" : "South Goa",
+		"sight_name" : "Dona Paula",
+		"image_url" : "/images/goa_donapaula.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 300,
+		"package_id" : 22,
+		"city_name" : "South Goa",
+		"sight_name" : "Old Goa Churches",
+		"image_url" : "/images/goa_oldchurch.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 301,
+		"package_id" : 22,
+		"city_name" : "South Goa",
+		"sight_name" : "Mangueshi Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 302,
+		"package_id" : 22,
+		"city_name" : "South Goa",
+		"sight_name" : "Ramnath Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 303,
+		"package_id" : 22,
+		"city_name" : "South Goa",
+		"sight_name" : "Shantadurga Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 304,
+		"package_id" : 22,
+		"city_name" : "North Goa",
+		"sight_name" : "Mayem Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 305,
+		"package_id" : 22,
+		"city_name" : "North Goa",
+		"sight_name" : "Mapusa",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 306,
+		"package_id" : 22,
+		"city_name" : "North Goa",
+		"sight_name" : "Vagatore Beach",
+		"image_url" : "/images/goa_vagatorbeach.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 307,
+		"package_id" : 22,
+		"city_name" : "North Goa",
+		"sight_name" : "Calangute Beach",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 308,
+		"package_id" : 22,
+		"city_name" : "North Goa",
+		"sight_name" : "Fort Aguada",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 309,
+		"package_id" : 23,
+		"city_name" : "Karwar",
+		"sight_name" : "INS Warship Museum",
+		"image_url" : "/images/karwar_INSMuseum.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 310,
+		"package_id" : 23,
+		"city_name" : "Karwar",
+		"sight_name" : "Rock Stone Garden",
+		"image_url" : "/images/karwar_rockstonegarden.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 311,
+		"package_id" : 23,
+		"city_name" : "Karwar",
+		"sight_name" : "Karwar Beach",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 312,
+		"package_id" : 23,
+		"city_name" : "Gokarna",
+		"sight_name" : "Mahabaleshwar Temple",
+		"image_url" : "/images/gokarna_mahabaleshwartemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 313,
+		"package_id" : 23,
+		"city_name" : "Gokarna",
+		"sight_name" : "Mirjan Fort",
+		"image_url" : "/images/gokarna_mirjanfort.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 314,
+		"package_id" : 23,
+		"city_name" : "Gokarna",
+		"sight_name" : "Om Beach",
+		"image_url" : "/images/gokarna_ombeach.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 315,
+		"package_id" : 23,
+		"city_name" : "Gokarna",
+		"sight_name" : "Gokarna Beach",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 316,
+		"package_id" : 23,
+		"city_name" : "Murdeshwar",
+		"sight_name" : "Murdeshwar Temple",
+		"image_url" : "/images/murudeshwar_MurudeshwarTemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 317,
+		"package_id" : 23,
+		"city_name" : "Murdeshwar",
+		"sight_name" : "Shiva Statue",
+		"image_url" : "/images/murudeshwar_shivstatue.avif",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 318,
+		"package_id" : 23,
+		"city_name" : "Murdeshwar",
+		"sight_name" : "Murudeshwara Beach",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 319,
+		"package_id" : 23,
+		"city_name" : "En route to Udupi",
+		"sight_name" : "Honavar Idagunji Ganapati Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 320,
+		"package_id" : 23,
+		"city_name" : "En route to Udupi",
+		"sight_name" : "Kollur Mookambika Devi Temple",
+		"image_url" : "/images/en_udupi_KollurMookambikaDevitemple.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 321,
+		"package_id" : 23,
+		"city_name" : "En route to Udupi",
+		"sight_name" : "Anegudde Ganapati Temple",
+		"image_url" : "/images/en_udupi_AneguddeGanapatiTemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 322,
+		"package_id" : 23,
+		"city_name" : "En route to Udupi",
+		"sight_name" : "Maravante Beach",
+		"image_url" : "/images/en_udupu_maravanthebeach.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 323,
+		"package_id" : 23,
+		"city_name" : "Udupi",
+		"sight_name" : "Krishna Temple",
+		"image_url" : "/images/udupi_krishnatemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 324,
+		"package_id" : 23,
+		"city_name" : "Udupi",
+		"sight_name" : "Anantheshwar Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 325,
+		"package_id" : 23,
+		"city_name" : "Udupi",
+		"sight_name" : "Chandramoulishwara Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 326,
+		"package_id" : 23,
+		"city_name" : "Udupi",
+		"sight_name" : "Malpe Beach",
+		"image_url" : "/images/udupi_malpebeach.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 327,
+		"package_id" : 23,
+		"city_name" : "Udupi",
+		"sight_name" : "Manipal End Point",
+		"image_url" : "/images/udupi_manipalendpoint.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 328,
+		"package_id" : 23,
+		"city_name" : "En route to Mangalore",
+		"sight_name" : "Pajaka Kshetra",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 329,
+		"package_id" : 23,
+		"city_name" : "En route to Mangalore",
+		"sight_name" : "Uchila Mahalaxmi Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 330,
+		"package_id" : 23,
+		"city_name" : "En route to Mangalore",
+		"sight_name" : "Kaup Beach",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 331,
+		"package_id" : 23,
+		"city_name" : "En route to Mangalore",
+		"sight_name" : "Kateel Durga Parameshwari Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 332,
+		"package_id" : 23,
+		"city_name" : "En route to Mangalore",
+		"sight_name" : "Panambur Beach",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 333,
+		"package_id" : 23,
+		"city_name" : "En route to Mangalore",
+		"sight_name" : "Kudroli Gokarnatheshwar Temple",
+		"image_url" : "/images/en_mangalore_KudroliGokarnatheshwarTemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 334,
+		"package_id" : 23,
+		"city_name" : "Mangalore",
+		"sight_name" : "Kadri Manjunatheshwar Temple",
+		"image_url" : "/images/mangalore_KadriManjunatheshwarTemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 335,
+		"package_id" : 23,
+		"city_name" : "Mangalore",
+		"sight_name" : "Mangaladevi Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 336,
+		"package_id" : 23,
+		"city_name" : "Mangalore",
+		"sight_name" : "St. Aloysius Chapel",
+		"image_url" : "/images/mangalore_St.AloysusChapel.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 337,
+		"package_id" : 23,
+		"city_name" : "Mangalore",
+		"sight_name" : "Shopping",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 338,
+		"package_id" : 24,
+		"city_name" : "Madurai",
+		"sight_name" : "Sri Meenakshi Sundereswarar",
+		"image_url" : "/images/madurai_SriMeenakshiSundereswarar.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 339,
+		"package_id" : 24,
+		"city_name" : "Madurai",
+		"sight_name" : "Palani Temples",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 340,
+		"package_id" : 24,
+		"city_name" : "Madurai",
+		"sight_name" : "King Tirumala’s Palace",
+		"image_url" : "/images/madurai_KingTirumala’sPalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 341,
+		"package_id" : 24,
+		"city_name" : "Madurai",
+		"sight_name" : "Vandiyur Mariamman Tank",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 342,
+		"package_id" : 24,
+		"city_name" : "Madurai",
+		"sight_name" : "Gandhi Museum",
+		"image_url" : "/images/madurai_Gandhimuseum.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 343,
+		"package_id" : 24,
+		"city_name" : "Rameshwaram",
+		"sight_name" : "Sri Ramanathaswamy Temple",
+		"image_url" : "/images/rameshwaram_SriRamanathaswamyTemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 344,
+		"package_id" : 24,
+		"city_name" : "Rameshwaram",
+		"sight_name" : "Kurusadai Island",
+		"image_url" : "/images/rameswaram_KurusadaiIsland.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 345,
+		"package_id" : 24,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Suchindram Temple",
+		"image_url" : "/images/kanyakumari_suchindramtemple.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 346,
+		"package_id" : 24,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Vivekananda Rock",
+		"image_url" : "/images/kanyakumari_vivekanandarock.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 347,
+		"package_id" : 24,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Sri Kanyakumari Amman Temple",
+		"image_url" : "/images/kanyakumari_ammantemple.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 348,
+		"package_id" : 24,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Wax Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 349,
+		"package_id" : 24,
+		"city_name" : "Kanyakumari",
+		"sight_name" : "Sunset at Kanyakumari Beach",
+		"image_url" : "/images/kanyakumari_sunset.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 350,
+		"package_id" : 25,
+		"city_name" : "Tirupati",
+		"sight_name" : "Padmavathi Temple",
+		"image_url" : "/images/tirupati_PadmavathiTemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 351,
+		"package_id" : 25,
+		"city_name" : "Tirupati",
+		"sight_name" : "Govindraju Swamy Temple",
+		"image_url" : "/images/tirupati_GovindrajuSwamyTemple.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 352,
+		"package_id" : 25,
+		"city_name" : "Tirupati",
+		"sight_name" : "Tirupati Balaji Darshan",
+		"image_url" : "/images/tirupati_TirupatiBalaji.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 353,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Charminar",
+		"image_url" : "/images/hyderabad_charminar.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 354,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Birla Mandir",
+		"image_url" : "/images/hyderabad_BirlaMandir.png",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 355,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Golconda Fort",
+		"image_url" : "/images/hyderabad_GolcondaFort.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 356,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Salar Jung Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 357,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Hussain Sagar Lake",
+		"image_url" : "/images/hyderabad_HussainSagarLake.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 358,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Lumbini Park",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 359,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "NTR Gardens",
+		"image_url" : "/images/hyderabad_NTRgarden.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 360,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Chowmahalla Palace",
+		"image_url" : "/images/hyderabad_Chowmahallapalace.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 361,
+		"package_id" : 26,
+		"city_name" : "Hyderabad",
+		"sight_name" : "Ramoji Film City",
+		"image_url" : "/images/hyderabad_ramojifilmcity.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 362,
+		"package_id" : 27,
+		"city_name" : "Matheran",
+		"sight_name" : "Charlotte Lake",
+		"image_url" : "/images/matheran_charlottelake.webp",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 363,
+		"package_id" : 27,
+		"city_name" : "Matheran",
+		"sight_name" : "Panorama Point",
+		"image_url" : "/images/matheran_Panoramapoint.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 364,
+		"package_id" : 27,
+		"city_name" : "Matheran",
+		"sight_name" : "Louisa Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 365,
+		"package_id" : 27,
+		"city_name" : "Matheran",
+		"sight_name" : "One Tree Hill",
+		"image_url" : "/images/matheran_OneTreeHill.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 366,
+		"package_id" : 27,
+		"city_name" : "Matheran",
+		"sight_name" : "Echo Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 367,
+		"package_id" : 27,
+		"city_name" : "Matheran",
+		"sight_name" : "Alexander Point",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 368,
+		"package_id" : 27,
+		"city_name" : "Matheran",
+		"sight_name" : "Irshalgad Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 369,
+		"package_id" : 28,
+		"city_name" : "Shirdi",
+		"sight_name" : "Sai Baba Samadhi Mandir",
+		"image_url" : "/images/shirdi_SaiBabaSamadhimandir.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 370,
+		"package_id" : 28,
+		"city_name" : "Shirdi",
+		"sight_name" : "Dwarkamai",
+		"image_url" : "/images/shirdi_dwarkamai.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 371,
+		"package_id" : 28,
+		"city_name" : "Shirdi",
+		"sight_name" : "Shani Shingnapur (extra cost)",
+		"image_url" : "/images/shirdi_ShaniShingnapur.jpg",
+		"created_at" : "2024-10-17 16:25:54",
+		"updated_at" : "2024-10-17 16:25:54"
+	},
+	{
+		"id" : 372,
+		"package_id" : 34,
+		"city_name" : "Srinagar",
+		"sight_name" : "Mughal Gardens (Nishat Bagh)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 373,
+		"package_id" : 34,
+		"city_name" : "Srinagar",
+		"sight_name" : "Mughal Gardens (Shalimar Garden)",
+		"image_url" : "/images/srinagar_ShalimarGarden.jpg",
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 374,
+		"package_id" : 34,
+		"city_name" : "Srinagar",
+		"sight_name" : "Mughal Gardens (Chashma Shahi Garden)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 375,
+		"package_id" : 34,
+		"city_name" : "Srinagar",
+		"sight_name" : "Shankracharya Temple",
+		"image_url" : "/images/srinagar_ShankracharyaTemple.avif",
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 376,
+		"package_id" : 34,
+		"city_name" : "Srinagar",
+		"sight_name" : "Houseboat Stay in Srinagar",
+		"image_url" : "/images/srinagar_houseboat.webp",
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 377,
+		"package_id" : 34,
+		"city_name" : "Sonamarg",
+		"sight_name" : "Meadows of Gold",
+		"image_url" : "/images/srinagar_sonmarg.webp",
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 378,
+		"package_id" : 34,
+		"city_name" : "Yusmarg",
+		"sight_name" : "Yusmarg",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 379,
+		"package_id" : 34,
+		"city_name" : "Gulmarg",
+		"sight_name" : "Meadows of Flowers",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 380,
+		"package_id" : 34,
+		"city_name" : "Gulmarg",
+		"sight_name" : "Gondola Ride & Snow Activities",
+		"image_url" : "/images/srinagar_gondolaride.jpg",
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 381,
+		"package_id" : 34,
+		"city_name" : "Pahalgam",
+		"sight_name" : "Aru Valley (by Own Cost Local Taxi)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 382,
+		"package_id" : 34,
+		"city_name" : "Pahalgam",
+		"sight_name" : "Chandanwari (by Own Cost Local Taxi)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 383,
+		"package_id" : 34,
+		"city_name" : "Pahalgam",
+		"sight_name" : "Betaab Valley (by Own Cost Local Taxi)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 384,
+		"package_id" : 34,
+		"city_name" : "Srinagar",
+		"sight_name" : "Shikara Ride on Dal Lake (1 hr)",
+		"image_url" : "/images/srinagar_shikara.jpg",
+		"created_at" : "2024-10-17 16:29:56",
+		"updated_at" : "2024-10-17 16:29:56"
+	},
+	{
+		"id" : 385,
+		"package_id" : 37,
+		"city_name" : "Katra (Vaishnodevi)",
+		"sight_name" : "Trek up by foot/horse to Mata Vaishnodevi Darshan",
+		"image_url" : "/images/vaishno_darshan.avif",
+		"created_at" : "2024-10-17 16:30:04",
+		"updated_at" : "2024-10-17 16:30:04"
+	},
+	{
+		"id" : 386,
+		"package_id" : 37,
+		"city_name" : "Katra (Vaishnodevi)",
+		"sight_name" : "Shivkori Darshan",
+		"image_url" : "/images/vaishno_shivkori.jpg",
+		"created_at" : "2024-10-17 16:30:04",
+		"updated_at" : "2024-10-17 16:30:04"
+	},
+	{
+		"id" : 387,
+		"package_id" : 37,
+		"city_name" : "Katra (Vaishnodevi)",
+		"sight_name" : "Nau Devi Darshan",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:30:04",
+		"updated_at" : "2024-10-17 16:30:04"
+	},
+	{
+		"id" : 388,
+		"package_id" : 37,
+		"city_name" : "Katra (Vaishnodevi)",
+		"sight_name" : "Waterfall",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:30:04",
+		"updated_at" : "2024-10-17 16:30:04"
+	},
+	{
+		"id" : 389,
+		"package_id" : 42,
+		"city_name" : "Prayagraj",
+		"sight_name" : "Triveni Sangam",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 390,
+		"package_id" : 42,
+		"city_name" : "Prayagraj",
+		"sight_name" : "Anand Bhavan Museum",
+		"image_url" : "/images/allahabad_AnandBhavanMuseum.png",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 391,
+		"package_id" : 42,
+		"city_name" : "Prayagraj",
+		"sight_name" : "Allahabad Fort",
+		"image_url" : "/images/allahabad_fort.jpg",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 392,
+		"package_id" : 42,
+		"city_name" : "Prayagraj",
+		"sight_name" : "Khusro Bagh",
+		"image_url" : "/images/allahabad_khusrobagh.jpg",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 393,
+		"package_id" : 42,
+		"city_name" : "Ayodhya",
+		"sight_name" : "Hanuman Garhi Mandir",
+		"image_url" : "/images/ayodhya_HanumanGarhiMandir.jpg",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 394,
+		"package_id" : 42,
+		"city_name" : "Ayodhya",
+		"sight_name" : "Ram Janmabhoomi Mandir",
+		"image_url" : "/images/ayodhya_RamJanmabhoomimandir.jpg",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 395,
+		"package_id" : 42,
+		"city_name" : "Ayodhya",
+		"sight_name" : "Saryu Ghat",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 396,
+		"package_id" : 42,
+		"city_name" : "Varanasi",
+		"sight_name" : "Lord Vishwanath Temple",
+		"image_url" : "/images/varanasi_LordVishwanathTemple.jpg",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 397,
+		"package_id" : 42,
+		"city_name" : "Varanasi",
+		"sight_name" : "Kal Bhairav Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 398,
+		"package_id" : 42,
+		"city_name" : "Varanasi",
+		"sight_name" : "Tulsi Manas Mandir",
+		"image_url" : "/images/varanasi_TulsiManasMandir.jpg",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 399,
+		"package_id" : 42,
+		"city_name" : "Varanasi",
+		"sight_name" : "Banaras Hindu University",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 400,
+		"package_id" : 42,
+		"city_name" : "Varanasi",
+		"sight_name" : "Bharat Mata Mandir",
+		"image_url" : null,
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 401,
+		"package_id" : 42,
+		"city_name" : "Varanasi",
+		"sight_name" : "Ganga Aarti at Banaras Ghat",
+		"image_url" : "/images/varanasi_gangaaarti.jpg",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 402,
+		"package_id" : 42,
+		"city_name" : "Varanasi",
+		"sight_name" : "Sarnath Temple",
+		"image_url" : "/images/varanasi_sarnath.webp",
+		"created_at" : "2024-10-17 16:31:02",
+		"updated_at" : "2024-10-17 16:31:02"
+	},
+	{
+		"id" : 403,
+		"package_id" : 41,
+		"city_name" : "Agra",
+		"sight_name" : "Taj Mahal",
+		"image_url" : "/images/agra_tajmahal.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 404,
+		"package_id" : 41,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (which houses Jahangiri Mahal)",
+		"image_url" : "/images/agra_AgraFort.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 405,
+		"package_id" : 41,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (Diwan-i-Khas)",
+		"image_url" : "/images/agra_Diwan-i-Khas.jpeg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 406,
+		"package_id" : 41,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (Diwan-i-Am)",
+		"image_url" : null,
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 407,
+		"package_id" : 41,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (Moti Masjid)",
+		"image_url" : "/images/agra_motimasjid.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 408,
+		"package_id" : 41,
+		"city_name" : "Vrindavan",
+		"sight_name" : "Banke Bihari Temple",
+		"image_url" : "/images/vrindavan_BankeBihariTemple.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 409,
+		"package_id" : 41,
+		"city_name" : "Vrindavan",
+		"sight_name" : "Prem Mandir",
+		"image_url" : "/images/vrindavan_PremMandir.webp",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 410,
+		"package_id" : 41,
+		"city_name" : "Vrindavan",
+		"sight_name" : "Nidhivan",
+		"image_url" : "/images/vrindavan_Nidhivan.webp",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 411,
+		"package_id" : 41,
+		"city_name" : "Vrindavan",
+		"sight_name" : "Birla Mandir",
+		"image_url" : null,
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 412,
+		"package_id" : 41,
+		"city_name" : "Vrindavan",
+		"sight_name" : "Krishna Balaram Mandir (ISKCON)",
+		"image_url" : "/images/vrindavan_ISCKON.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 413,
+		"package_id" : 41,
+		"city_name" : "Mathura",
+		"sight_name" : "Lord Shri Krishna Janma Bhoomi",
+		"image_url" : "/images/mathura_krishnajanmbhoomitemple.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 414,
+		"package_id" : 41,
+		"city_name" : "Mathura",
+		"sight_name" : "Dwarkadhish Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 415,
+		"package_id" : 41,
+		"city_name" : "Mathura",
+		"sight_name" : "Rangabhoomi",
+		"image_url" : null,
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 416,
+		"package_id" : 41,
+		"city_name" : "Mathura",
+		"sight_name" : "Vishramghat",
+		"image_url" : null,
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 417,
+		"package_id" : 41,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Buland Darwaja",
+		"image_url" : "/images/sikri_bulanddarwaza.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 418,
+		"package_id" : 41,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Panch Mahal",
+		"image_url" : "/images/sikri_panchmahal.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 419,
+		"package_id" : 41,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Tomb of Saint Sheikh Salim Chishti",
+		"image_url" : "/images/sikri_dargah.jpg",
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 420,
+		"package_id" : 41,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Jama Masjid",
+		"image_url" : null,
+		"created_at" : "2024-10-17 17:07:07",
+		"updated_at" : "2024-10-17 17:07:07"
+	},
+	{
+		"id" : 421,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "Red Fort (Diwan-i-Am, Diwan-i-Khas, Moti Masjid)",
+		"image_url" : "/images/delhi_redfort.webp",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 422,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "Qutub Minar",
+		"image_url" : "/images/delhi_qutubminar.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 423,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "Jama Masjid",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 424,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "Raj Ghat",
+		"image_url" : "/images/delhi_rajghat.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 425,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "Lotus Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 426,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "Akshardham Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 427,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "India Gate (drive past)",
+		"image_url" : "/images/delhi_indiagate.jpeg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 428,
+		"package_id" : 29,
+		"city_name" : "Delhi",
+		"sight_name" : "Rashtrapati Bhavan (drive past)",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 429,
+		"package_id" : 29,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort",
+		"image_url" : "/images/agra_AgraFort.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 430,
+		"package_id" : 29,
+		"city_name" : "Agra",
+		"sight_name" : "Taj Mahal",
+		"image_url" : "/images/agra_tajmahal.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 431,
+		"package_id" : 29,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Buland Darwaja",
+		"image_url" : "/images/sikri_bulanddarwaza.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 432,
+		"package_id" : 29,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Panch Mahal",
+		"image_url" : "/images/sikri_panchmahal.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 433,
+		"package_id" : 29,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Tomb of Saint Sheikh Salim Chishti",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 434,
+		"package_id" : 29,
+		"city_name" : "Jaipur",
+		"sight_name" : "Chokhi Dhani",
+		"image_url" : "/images/jaipur_chokidhani.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 435,
+		"package_id" : 29,
+		"city_name" : "Jaipur",
+		"sight_name" : "Amber Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 436,
+		"package_id" : 29,
+		"city_name" : "Jaipur",
+		"sight_name" : "Hawa Mahal",
+		"image_url" : "/images/jaipur_hawamahal.webp",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 437,
+		"package_id" : 29,
+		"city_name" : "Jaipur",
+		"sight_name" : "City Palace",
+		"image_url" : "/images/jaipur_citypalace.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 438,
+		"package_id" : 29,
+		"city_name" : "Jaipur",
+		"sight_name" : "Jantar Mantar Observatory",
+		"image_url" : "/images/jaipur_jantarmantar.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 439,
+		"package_id" : 30,
+		"city_name" : "Amritsar",
+		"sight_name" : "Golden Temple",
+		"image_url" : "/images/amritsar_goldentemple.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 440,
+		"package_id" : 30,
+		"city_name" : "Amritsar",
+		"sight_name" : "Jallianwala Bagh",
+		"image_url" : "/images/amritsar_jalliawalabagh.avif",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 441,
+		"package_id" : 30,
+		"city_name" : "Amritsar",
+		"sight_name" : "Attari Wagah Border (Indo-Pakistan parade, flag ceremony)",
+		"image_url" : "/images/amritsar_attariwagahborder.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 442,
+		"package_id" : 30,
+		"city_name" : "Amritsar",
+		"sight_name" : "Partition Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 443,
+		"package_id" : 30,
+		"city_name" : "Amritsar",
+		"sight_name" : "Punjab State War Heroes Memorial & Museum",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 444,
+		"package_id" : 30,
+		"city_name" : "Dalhousie",
+		"sight_name" : "Sardar Ajit Singh Smarak",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 445,
+		"package_id" : 30,
+		"city_name" : "Dalhousie",
+		"sight_name" : "Khajjiar (Deodar Forest and Grasslands)",
+		"image_url" : "/images/dalhousie_khajjar.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 446,
+		"package_id" : 30,
+		"city_name" : "Dalhousie",
+		"sight_name" : "Scenic Boat ride at Chamera Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 447,
+		"package_id" : 30,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Kangra Fort",
+		"image_url" : "/images/dharm_KangraFort.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 448,
+		"package_id" : 30,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Bhagsunag Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 449,
+		"package_id" : 30,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Dalai Lama Monastery",
+		"image_url" : "/images/dharm_DalaiLamaMonastery.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 450,
+		"package_id" : 30,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Dharamshala Skyway",
+		"image_url" : "/images/dharm_skyway.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 451,
+		"package_id" : 30,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Dharamshala Cricket Stadium",
+		"image_url" : "/images/dharm_DharamshalaCricketStadium.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 452,
+		"package_id" : 30,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Shopping at Mcleodganj Bazaar",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 453,
+		"package_id" : 31,
+		"city_name" : "Shimla",
+		"sight_name" : "Jakhoo Temple",
+		"image_url" : "/images/shimla_jakhootemple.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 454,
+		"package_id" : 31,
+		"city_name" : "Shimla",
+		"sight_name" : "Mall Road",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 455,
+		"package_id" : 31,
+		"city_name" : "Shimla",
+		"sight_name" : "The Ridge",
+		"image_url" : "/images/shimla_ridge.JPG",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 456,
+		"package_id" : 31,
+		"city_name" : "Shimla",
+		"sight_name" : "Shimla Church",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 457,
+		"package_id" : 31,
+		"city_name" : "Shimla",
+		"sight_name" : "Scandal Point",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 458,
+		"package_id" : 31,
+		"city_name" : "Kullu",
+		"sight_name" : "Pandoh Dam",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 459,
+		"package_id" : 31,
+		"city_name" : "Kullu",
+		"sight_name" : "Beas River",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 460,
+		"package_id" : 31,
+		"city_name" : "Kullu",
+		"sight_name" : "Sutlaj River",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 461,
+		"package_id" : 31,
+		"city_name" : "Kullu",
+		"sight_name" : "Beas Sutlaj Link Project",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 462,
+		"package_id" : 31,
+		"city_name" : "Kullu",
+		"sight_name" : "Kullu Valley",
+		"image_url" : "/images/kullu_valley.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 463,
+		"package_id" : 31,
+		"city_name" : "Kullu",
+		"sight_name" : "Kullu Shawl Factory",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 464,
+		"package_id" : 31,
+		"city_name" : "Manali",
+		"sight_name" : "Hadimba Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 465,
+		"package_id" : 31,
+		"city_name" : "Manali",
+		"sight_name" : "Manu Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 466,
+		"package_id" : 31,
+		"city_name" : "Manali",
+		"sight_name" : "Vasisth Temple Spring",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 467,
+		"package_id" : 31,
+		"city_name" : "Manali",
+		"sight_name" : "Tibetan Monastery",
+		"image_url" : "/images/manali_monastery.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 468,
+		"package_id" : 31,
+		"city_name" : "Manali",
+		"sight_name" : "Solang Valley",
+		"image_url" : "/images/manali_solangvalley.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 469,
+		"package_id" : 31,
+		"city_name" : "Manali",
+		"sight_name" : "Atal Tunnel",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 470,
+		"package_id" : 31,
+		"city_name" : "Manali",
+		"sight_name" : "Rohtang Pass",
+		"image_url" : "/images/manali_rohtangpass.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 471,
+		"package_id" : 31,
+		"city_name" : "Chandigarh",
+		"sight_name" : "Rock Garden",
+		"image_url" : "/images/chandigarh_rockgarden.cms",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 472,
+		"package_id" : 32,
+		"city_name" : "Shimla",
+		"sight_name" : "Jakhoo Temple",
+		"image_url" : "/images/shimla_jakhootemple.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 473,
+		"package_id" : 32,
+		"city_name" : "Shimla",
+		"sight_name" : "Mall Road",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 474,
+		"package_id" : 32,
+		"city_name" : "Shimla",
+		"sight_name" : "The Ridge",
+		"image_url" : "/images/shimla_ridge.JPG",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 475,
+		"package_id" : 32,
+		"city_name" : "Shimla",
+		"sight_name" : "Shimla Church",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 476,
+		"package_id" : 32,
+		"city_name" : "Shimla",
+		"sight_name" : "Scandal Point",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 477,
+		"package_id" : 32,
+		"city_name" : "Kullu",
+		"sight_name" : "Pandoh Dam",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 478,
+		"package_id" : 32,
+		"city_name" : "Kullu",
+		"sight_name" : "Beas River",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 479,
+		"package_id" : 32,
+		"city_name" : "Kullu",
+		"sight_name" : "Sutlaj River",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 480,
+		"package_id" : 32,
+		"city_name" : "Kullu",
+		"sight_name" : "Beas Sutlaj Link Project",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 481,
+		"package_id" : 32,
+		"city_name" : "Kullu",
+		"sight_name" : "Kullu Valley",
+		"image_url" : "/images/kullu_valley.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 482,
+		"package_id" : 32,
+		"city_name" : "Kullu",
+		"sight_name" : "Kullu Shawl Factory",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 483,
+		"package_id" : 32,
+		"city_name" : "Manali",
+		"sight_name" : "Hadimba Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 484,
+		"package_id" : 32,
+		"city_name" : "Manali",
+		"sight_name" : "Manu Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 485,
+		"package_id" : 32,
+		"city_name" : "Manali",
+		"sight_name" : "Vasisth Temple Spring",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 486,
+		"package_id" : 32,
+		"city_name" : "Manali",
+		"sight_name" : "Tibetan Monastery",
+		"image_url" : "/images/manali_monastery.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 487,
+		"package_id" : 32,
+		"city_name" : "Manali",
+		"sight_name" : "Solang Valley",
+		"image_url" : "/images/manali_solangvalley.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 488,
+		"package_id" : 32,
+		"city_name" : "Manali",
+		"sight_name" : "Atal Tunnel",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 489,
+		"package_id" : 32,
+		"city_name" : "Manali",
+		"sight_name" : "Rohtang Pass",
+		"image_url" : "/images/manali_rohtangpass.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 490,
+		"package_id" : 32,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Kangra Fort",
+		"image_url" : "/images/dharm_KangraFort.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 491,
+		"package_id" : 32,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Bhagsunag Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 492,
+		"package_id" : 32,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Dalai Lama Monastery",
+		"image_url" : "/images/dharm_DalaiLamaMonastery.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 493,
+		"package_id" : 32,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Dharamshala Skyway",
+		"image_url" : "/images/dharm_skyway.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 494,
+		"package_id" : 32,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Dharamshala Cricket Stadium",
+		"image_url" : "/images/dharm_DharamshalaCricketStadium.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 495,
+		"package_id" : 32,
+		"city_name" : "Dharamshala",
+		"sight_name" : "Shopping at Mcleodganj Bazaar",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 496,
+		"package_id" : 32,
+		"city_name" : "Dalhousie",
+		"sight_name" : "Sardar Ajit Singh Smarak",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 497,
+		"package_id" : 32,
+		"city_name" : "Dalhousie",
+		"sight_name" : "Khajjiar (Deodar Forest and Grasslands)",
+		"image_url" : "/images/dalhousie_khajjar.jpg",
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 498,
+		"package_id" : 32,
+		"city_name" : "Dalhousie",
+		"sight_name" : "Scenic Boat ride at Chamera Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:42:05",
+		"updated_at" : "2024-10-19 05:42:05"
+	},
+	{
+		"id" : 499,
+		"package_id" : 35,
+		"city_name" : "Barkot",
+		"sight_name" : "Scenic views of snow-capped mountains",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 500,
+		"package_id" : 35,
+		"city_name" : "Yamunotri",
+		"sight_name" : "Yamunotri darshan",
+		"image_url" : "/images/Yamunotri.jpg",
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 501,
+		"package_id" : 35,
+		"city_name" : "Yamunotri",
+		"sight_name" : "Divya Shila",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 502,
+		"package_id" : 35,
+		"city_name" : "Yamunotri",
+		"sight_name" : "Jamunabai Kund",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 503,
+		"package_id" : 35,
+		"city_name" : "Uttarkashi",
+		"sight_name" : "Viswanathan Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 504,
+		"package_id" : 35,
+		"city_name" : "Hasil Village",
+		"sight_name" : "Hasil Village",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 505,
+		"package_id" : 35,
+		"city_name" : "Hasil Village",
+		"sight_name" : "Bhagirathi River",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 506,
+		"package_id" : 35,
+		"city_name" : "Gangotri",
+		"sight_name" : "Gangotri darshan",
+		"image_url" : "/images/gangotri.jpg",
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 507,
+		"package_id" : 35,
+		"city_name" : "Gaurikund",
+		"sight_name" : "Gaurikund",
+		"image_url" : "/images/gaurikund.jpeg",
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 508,
+		"package_id" : 35,
+		"city_name" : "Gaurikund",
+		"sight_name" : "Taptakund",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 509,
+		"package_id" : 35,
+		"city_name" : "Kedarnath",
+		"sight_name" : "Kedarnath Temple",
+		"image_url" : "/images/kedarnath.webp",
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 510,
+		"package_id" : 35,
+		"city_name" : "Rudraprayag",
+		"sight_name" : "Rudraprayag (confluence of Mandakini and Alaknanda)",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 511,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "Badrinath Temple",
+		"image_url" : "/images/badrinath.jpg",
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 512,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "Brahma Kamal",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 513,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "Mana",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 514,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "Vyas Gufa",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 515,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "Maatamoorti",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 516,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "Charanpaduka",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 517,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "Bhimkund",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 518,
+		"package_id" : 35,
+		"city_name" : "Badrinath",
+		"sight_name" : "The “Mukh” of the Saraswathi River",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 519,
+		"package_id" : 35,
+		"city_name" : "Rishikesh",
+		"sight_name" : "Rishikesh",
+		"image_url" : null,
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 520,
+		"package_id" : 35,
+		"city_name" : "Haridwar",
+		"sight_name" : "Ganga Aarti",
+		"image_url" : "/images/haridwar_gangaaarti.jpeg",
+		"created_at" : "2024-10-19 05:43:58",
+		"updated_at" : "2024-10-19 05:43:58"
+	},
+	{
+		"id" : 521,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "Red Fort (Diwan-i-Am, Diwan-i-Khas, Moti Masjid)",
+		"image_url" : "/images/delhi_redfort.webp",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 522,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "Qutub Minar",
+		"image_url" : "/images/delhi_qutubminar.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 523,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "Jama Masjid",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 524,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "Raj Ghat",
+		"image_url" : "/images/delhi_rajghat.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 525,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "Lotus Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 526,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "Akshardham Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 527,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "India Gate (drive past)",
+		"image_url" : "/images/delhi_indiagate.jpeg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 528,
+		"package_id" : 38,
+		"city_name" : "Delhi",
+		"sight_name" : "Rashtrapati Bhavan (drive past)",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 529,
+		"package_id" : 38,
+		"city_name" : "Agra",
+		"sight_name" : "Taj Mahal",
+		"image_url" : "/images/agra_tajmahal.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 530,
+		"package_id" : 38,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (which houses Jahangiri Mahal)",
+		"image_url" : "/images/agra_AgraFort.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 531,
+		"package_id" : 38,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (Diwan-i-Khas)",
+		"image_url" : "/images/agra_Diwan-i-Khas.jpeg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 532,
+		"package_id" : 38,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (Diwan-i-Am)",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 533,
+		"package_id" : 38,
+		"city_name" : "Agra",
+		"sight_name" : "Agra Fort (Moti Masjid)",
+		"image_url" : "/images/agra_motimasjid.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 534,
+		"package_id" : 38,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Buland Darwaja",
+		"image_url" : "/images/sikri_bulanddarwaza.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 535,
+		"package_id" : 38,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Panch Mahal",
+		"image_url" : "/images/sikri_panchmahal.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 536,
+		"package_id" : 38,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Tomb of Saint Sheikh Salim Chishti",
+		"image_url" : "/images/sikri_dargah.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 537,
+		"package_id" : 38,
+		"city_name" : "Fatehpur Sikri",
+		"sight_name" : "Jama Masjid",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 538,
+		"package_id" : 38,
+		"city_name" : "Jaipur",
+		"sight_name" : "Chokhi Dhani",
+		"image_url" : "/images/jaipur_chokidhani.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 539,
+		"package_id" : 38,
+		"city_name" : "Jaipur",
+		"sight_name" : "Amber Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 540,
+		"package_id" : 38,
+		"city_name" : "Jaipur",
+		"sight_name" : "Hawa Mahal",
+		"image_url" : "/images/jaipur_hawamahal.webp",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 541,
+		"package_id" : 38,
+		"city_name" : "Jaipur",
+		"sight_name" : "City Palace",
+		"image_url" : "/images/jaipur_citypalace.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 542,
+		"package_id" : 38,
+		"city_name" : "Jaipur",
+		"sight_name" : "Jantar Mantar Observatory",
+		"image_url" : "/images/jaipur_jantarmantar.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 543,
+		"package_id" : 38,
+		"city_name" : "Udaipur",
+		"sight_name" : "City Palace",
+		"image_url" : "/images/udaipur_citypalace.webp",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 544,
+		"package_id" : 38,
+		"city_name" : "Udaipur",
+		"sight_name" : "Sahelion-Ki-Bari",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 545,
+		"package_id" : 38,
+		"city_name" : "Udaipur",
+		"sight_name" : "Patap Smarak",
+		"image_url" : "/images/udaipur_PatapSmarak.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 546,
+		"package_id" : 38,
+		"city_name" : "Udaipur",
+		"sight_name" : "Museum of Folk Art",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 547,
+		"package_id" : 38,
+		"city_name" : "Udaipur",
+		"sight_name" : "Boat ride on Lake Pichola",
+		"image_url" : "/images/udaipur_boatrideonLakePichola.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 548,
+		"package_id" : 38,
+		"city_name" : "Mount Abu",
+		"sight_name" : "Dilwara Jain Temple",
+		"image_url" : "/images/abu_dilwara.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 549,
+		"package_id" : 38,
+		"city_name" : "Mount Abu",
+		"sight_name" : "Nakki Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 550,
+		"package_id" : 39,
+		"city_name" : "Jaipur",
+		"sight_name" : "Chokhi Dhani",
+		"image_url" : "/images/jaipur_chokidhani.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 551,
+		"package_id" : 39,
+		"city_name" : "Jaipur",
+		"sight_name" : "Amber Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 552,
+		"package_id" : 39,
+		"city_name" : "Jaipur",
+		"sight_name" : "Hawa Mahal",
+		"image_url" : "/images/jaipur_hawamahal.webp",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 553,
+		"package_id" : 39,
+		"city_name" : "Jaipur",
+		"sight_name" : "City Palace",
+		"image_url" : "/images/jaipur_citypalace.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 554,
+		"package_id" : 39,
+		"city_name" : "Jaipur",
+		"sight_name" : "Jantar Mantar Observatory",
+		"image_url" : "/images/jaipur_jantarmantar.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 555,
+		"package_id" : 39,
+		"city_name" : "Bikaner",
+		"sight_name" : "Junagarh Fort",
+		"image_url" : "/images/bikaner_JunagarhFort.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 556,
+		"package_id" : 39,
+		"city_name" : "Bikaner",
+		"sight_name" : "National Camel Breeding Farm",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 557,
+		"package_id" : 39,
+		"city_name" : "Bikaner",
+		"sight_name" : "Karni Mata Mandir",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 558,
+		"package_id" : 39,
+		"city_name" : "Jaisalmer",
+		"sight_name" : "Jaisalmer Fort",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 559,
+		"package_id" : 39,
+		"city_name" : "Jaisalmer",
+		"sight_name" : "Patwon-ki-Haveli",
+		"image_url" : "/images/jaisalmer_PatwonkiHaveli.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 560,
+		"package_id" : 39,
+		"city_name" : "Jaisalmer",
+		"sight_name" : "Gadisar Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 561,
+		"package_id" : 39,
+		"city_name" : "Jodhpur",
+		"sight_name" : "Mehrangarh Fort - Moti Mahal",
+		"image_url" : "/images/jodhpur_motimahal.jpeg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 562,
+		"package_id" : 39,
+		"city_name" : "Jodhpur",
+		"sight_name" : "Mehrangarh Fort - Phool Mahal",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 563,
+		"package_id" : 39,
+		"city_name" : "Jodhpur",
+		"sight_name" : "Mehrangarh Fort - Sheesh Mahal",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 564,
+		"package_id" : 39,
+		"city_name" : "Jodhpur",
+		"sight_name" : "Mehrangarh Fort - Silah Khana",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 565,
+		"package_id" : 39,
+		"city_name" : "Jodhpur",
+		"sight_name" : "Mehrangarh Fort - Daulat Khana",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 566,
+		"package_id" : 39,
+		"city_name" : "Jodhpur",
+		"sight_name" : "Mehrangarh Fort - Rang Mahal",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 567,
+		"package_id" : 39,
+		"city_name" : "Jodhpur",
+		"sight_name" : "Jaswant Thada",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 568,
+		"package_id" : 39,
+		"city_name" : "Udaipur",
+		"sight_name" : "City Palace",
+		"image_url" : "/images/udaipur_citypalace.webp",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 569,
+		"package_id" : 39,
+		"city_name" : "Udaipur",
+		"sight_name" : "Sahelion-Ki-Bari",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 570,
+		"package_id" : 39,
+		"city_name" : "Udaipur",
+		"sight_name" : "Patap Smarak",
+		"image_url" : "/images/udaipur_PatapSmarak.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 571,
+		"package_id" : 39,
+		"city_name" : "Udaipur",
+		"sight_name" : "Museum of Folk Art",
+		"image_url" : null,
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 572,
+		"package_id" : 39,
+		"city_name" : "Udaipur",
+		"sight_name" : "Boat ride on Lake Pichola",
+		"image_url" : "/images/udaipur_boatrideonLakePichola.jpg",
+		"created_at" : "2024-10-19 06:23:14",
+		"updated_at" : "2024-10-19 06:23:14"
+	},
+	{
+		"id" : 573,
+		"package_id" : 33,
+		"city_name" : "Jim Corbett",
+		"sight_name" : "Jungle Safari in Jim Corbett National Park",
+		"image_url" : "/images/jimcorbett.webp",
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 574,
+		"package_id" : 33,
+		"city_name" : "Kausani",
+		"sight_name" : "Pass by Kausani - panoramic view of Himalayas, peaks, valleys",
+		"image_url" : "/images/kasauni.webp",
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 575,
+		"package_id" : 33,
+		"city_name" : "Ranikhet",
+		"sight_name" : "Enroute visit - Kaichi Temple, Army War Museum (Subject to Operation)",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 576,
+		"package_id" : 33,
+		"city_name" : "Nainital",
+		"sight_name" : "Cable car to Snow View Point",
+		"image_url" : "/images/nanital_snowviewpoint.jpg",
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 577,
+		"package_id" : 33,
+		"city_name" : "Nainital",
+		"sight_name" : "Nainadevi Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 578,
+		"package_id" : 33,
+		"city_name" : "Nainital",
+		"sight_name" : "Boating at Naini Lake",
+		"image_url" : "/images/nanital_nainilake.jpg",
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 579,
+		"package_id" : 33,
+		"city_name" : "Bhimtal",
+		"sight_name" : "Tour of Bhimtal",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 580,
+		"package_id" : 33,
+		"city_name" : "Naukuchiatal",
+		"sight_name" : "Tour of Naukuchiatal",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 581,
+		"package_id" : 33,
+		"city_name" : "SatTal",
+		"sight_name" : "Tour of SatTal",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 582,
+		"package_id" : 33,
+		"city_name" : "Mussoorie",
+		"sight_name" : "Kempty Falls",
+		"image_url" : "/images/mussoorie_Kemptyfalls.jpg",
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 583,
+		"package_id" : 33,
+		"city_name" : "Mussoorie",
+		"sight_name" : "Doon Valley",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 584,
+		"package_id" : 33,
+		"city_name" : "Mussoorie",
+		"sight_name" : "Ropeway ride to Gunhill Point",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 585,
+		"package_id" : 33,
+		"city_name" : "Mussoorie",
+		"sight_name" : "Shopping at Kulri Market",
+		"image_url" : null,
+		"created_at" : "2024-10-20 21:52:03",
+		"updated_at" : "2024-10-20 21:52:03"
+	},
+	{
+		"id" : 586,
+		"package_id" : 40,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Sabarmati Ashram",
+		"image_url" : "/images/gujrat_SabarmatiAshram.jpg",
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 587,
+		"package_id" : 40,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Rani Ki Vav (in Patan)",
+		"image_url" : "/images/ranikavav.jpg",
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 588,
+		"package_id" : 40,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Modhera Sun Temple",
+		"image_url" : "/images/modherasuntemple.jpg",
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 589,
+		"package_id" : 40,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Akshardham Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 590,
+		"package_id" : 40,
+		"city_name" : "Bhuj",
+		"sight_name" : "Aina Mahal",
+		"image_url" : "/images/ainamahal.jpg",
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 591,
+		"package_id" : 40,
+		"city_name" : "Bhuj",
+		"sight_name" : "Prag Mahal",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 592,
+		"package_id" : 40,
+		"city_name" : "Bhuj",
+		"sight_name" : "Swaminarayan Temple",
+		"image_url" : "/images/SwaminarayanTemple.jpg",
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 593,
+		"package_id" : 40,
+		"city_name" : "Mandvi",
+		"sight_name" : "Mandvi Beach",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 594,
+		"package_id" : 40,
+		"city_name" : "Mandvi",
+		"sight_name" : "Vijay Vilas Palace",
+		"image_url" : "/images/vijayvilaspalace.webp",
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 595,
+		"package_id" : 40,
+		"city_name" : "Kutch",
+		"sight_name" : "Rann of Kutch",
+		"image_url" : "/images/rannutsav.jpg",
+		"created_at" : "2024-10-20 22:07:35",
+		"updated_at" : "2024-10-20 22:07:35"
+	},
+	{
+		"id" : 646,
+		"package_id" : 75,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Sabarmati Ashram",
+		"image_url" : "/images/gujrat_SabarmatiAshram.jpg",
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 647,
+		"package_id" : 75,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Rani Ki Vav (in Patan)",
+		"image_url" : "/images/ranikavav.jpg",
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 648,
+		"package_id" : 75,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Modhera Sun Temple",
+		"image_url" : "/images/modherasuntemple.jpg",
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 649,
+		"package_id" : 75,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Akshardham Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 650,
+		"package_id" : 75,
+		"city_name" : "Ahmedabad",
+		"sight_name" : "Sasan Gir",
+		"image_url" : "/images/sasangir.jpg",
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 651,
+		"package_id" : 75,
+		"city_name" : "Somnath/Porbandar",
+		"sight_name" : "Bhalka Tirth",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 652,
+		"package_id" : 75,
+		"city_name" : "Somnath/Porbandar",
+		"sight_name" : "Triveni Sangam",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 653,
+		"package_id" : 75,
+		"city_name" : "Somnath/Porbandar",
+		"sight_name" : "Geeta Mandir and Somnath Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 654,
+		"package_id" : 75,
+		"city_name" : "Somnath/Porbandar",
+		"sight_name" : "Kirti Mandir",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 655,
+		"package_id" : 75,
+		"city_name" : "Somnath/Porbandar",
+		"sight_name" : "Sudama Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 656,
+		"package_id" : 75,
+		"city_name" : "Somnath/Porbandar",
+		"sight_name" : "Somnath Jyotirlinga",
+		"image_url" : "/images/somnathjyotirlinga.jpg",
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 657,
+		"package_id" : 75,
+		"city_name" : "Dwarka",
+		"sight_name" : "Gomti River Ghat",
+		"image_url" : "/images/dwarka_GomtiGhat.jpg",
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 658,
+		"package_id" : 75,
+		"city_name" : "Dwarka",
+		"sight_name" : "Dwarkadheesh Temple",
+		"image_url" : "/images/DwarkadheeshTemple.jpg",
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 659,
+		"package_id" : 75,
+		"city_name" : "Dwarka",
+		"sight_name" : "Bet Dwarka",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 660,
+		"package_id" : 75,
+		"city_name" : "Dwarka",
+		"sight_name" : "Rukmini Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 661,
+		"package_id" : 75,
+		"city_name" : "Dwarka",
+		"sight_name" : "Nageshwar Jyotirlinga",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:16:18",
+		"updated_at" : "2024-10-20 22:16:18"
+	},
+	{
+		"id" : 662,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Tashi View Point",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 663,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Ganesh Tok",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 664,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Hanuman Tok",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 665,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Tsomgo Lake",
+		"image_url" : "/images/gangtok_TsomgoLake.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 666,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Baba Mandir",
+		"image_url" : "/images/gangtok_BabaMandir.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 667,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Institute of Tibetology (Tibetan antics)",
+		"image_url" : "/images/gangtok_InstituteofTibetology.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 668,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Orchid House (Himalayan orchids collection)",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 669,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Enchay Monastery",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 670,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Dodurl Chorten",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 671,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Handicrafts",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 672,
+		"package_id" : 36,
+		"city_name" : "Gangtok",
+		"sight_name" : "Shopping at M.G Marg",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 673,
+		"package_id" : 36,
+		"city_name" : "Pelling",
+		"sight_name" : "Pemayangtse Monastery",
+		"image_url" : "/images/pelling_PemayangtseMonastery.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 674,
+		"package_id" : 36,
+		"city_name" : "Pelling",
+		"sight_name" : "Kechopalri Lake",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 675,
+		"package_id" : 36,
+		"city_name" : "Pelling",
+		"sight_name" : "Kunchenjungha Falls",
+		"image_url" : "/images/pelling_KunchenjunghaFalls.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 676,
+		"package_id" : 36,
+		"city_name" : "Pelling",
+		"sight_name" : "Rimbi Falls",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 677,
+		"package_id" : 36,
+		"city_name" : "Pelling",
+		"sight_name" : "Sinsore Bridge",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 678,
+		"package_id" : 36,
+		"city_name" : "Pelling",
+		"sight_name" : "Chardham Temple",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 679,
+		"package_id" : 36,
+		"city_name" : "Kalimpong",
+		"sight_name" : "Forest Museum (Closed On Thursday)",
+		"image_url" : "/images/kalimpong_forestmuseum.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 680,
+		"package_id" : 36,
+		"city_name" : "Kalimpong",
+		"sight_name" : "Hanuman Mandir",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 681,
+		"package_id" : 36,
+		"city_name" : "Kalimpong",
+		"sight_name" : "Deolo Hill",
+		"image_url" : "/images/kalimpong_deolohill.jpeg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 682,
+		"package_id" : 36,
+		"city_name" : "Kalimpong",
+		"sight_name" : "Dr Graham Homes School",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 683,
+		"package_id" : 36,
+		"city_name" : "Kalimpong",
+		"sight_name" : "Durpin Monastery",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 684,
+		"package_id" : 36,
+		"city_name" : "Kalimpong",
+		"sight_name" : "Pine View Nurseries",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 685,
+		"package_id" : 36,
+		"city_name" : "Darjeeling",
+		"sight_name" : "Tiger Hill (Sunrise on Kanchenjunga Ranges)",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 686,
+		"package_id" : 36,
+		"city_name" : "Darjeeling",
+		"sight_name" : "Batasia Loop",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 687,
+		"package_id" : 36,
+		"city_name" : "Darjeeling",
+		"sight_name" : "Himalayan Mountaineering Institute (HMI)",
+		"image_url" : "/images/darjeeling_HMI.png",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 688,
+		"package_id" : 36,
+		"city_name" : "Darjeeling",
+		"sight_name" : "Zoological Park",
+		"image_url" : null,
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 689,
+		"package_id" : 36,
+		"city_name" : "Darjeeling",
+		"sight_name" : "Himalayan Tibet Museum and Tenzing Rock",
+		"image_url" : "/images/darjeeling_tenzingrock.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 690,
+		"package_id" : 36,
+		"city_name" : "Darjeeling",
+		"sight_name" : "Tea Estate",
+		"image_url" : "/images/darjeeling_tea.jpg",
+		"created_at" : "2024-10-20 22:27:55",
+		"updated_at" : "2024-10-20 22:27:55"
+	},
+	{
+		"id" : 691,
+		"package_id" : 76,
+		"city_name" : "Port Blair",
+		"sight_name" : "Cellular Jail",
+		"image_url" : "/images/cellular_jail.avif",
+		"created_at" : "2024-12-02 16:00:36",
+		"updated_at" : "2024-12-02 16:00:36"
+	},
+	{
+		"id" : 692,
+		"package_id" : 76,
+		"city_name" : "Port Blair",
+		"sight_name" : "Veer Savarkar Smarak",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:00:36",
+		"updated_at" : "2024-12-02 16:00:36"
+	},
+	{
+		"id" : 693,
+		"package_id" : 76,
+		"city_name" : "Port Blair",
+		"sight_name" : "Netaji Subhash Chandra Bose Island (Ross Island)",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:00:36",
+		"updated_at" : "2024-12-02 16:00:36"
+	},
+	{
+		"id" : 694,
+		"package_id" : 76,
+		"city_name" : "Havelock",
+		"sight_name" : "Radhanagar Beach (Asia’s Best Beach and 7th best beach in the world)",
+		"image_url" : "/images/radhanagar_beach.webp",
+		"created_at" : "2024-12-02 16:00:36",
+		"updated_at" : "2024-12-02 16:00:36"
+	},
+	{
+		"id" : 695,
+		"package_id" : 76,
+		"city_name" : "Havelock",
+		"sight_name" : "Elephant Beach",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:00:36",
+		"updated_at" : "2024-12-02 16:00:36"
+	},
+	{
+		"id" : 696,
+		"package_id" : 76,
+		"city_name" : "Neil Island",
+		"sight_name" : "Bharatpur Beach",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:00:36",
+		"updated_at" : "2024-12-02 16:00:36"
+	},
+	{
+		"id" : 697,
+		"package_id" : 77,
+		"city_name" : "Chitwan",
+		"sight_name" : "Manakamana Devi Temple",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 698,
+		"package_id" : 77,
+		"city_name" : "Chitwan",
+		"sight_name" : "Chitwan National Park",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 699,
+		"package_id" : 77,
+		"city_name" : "Pokhara",
+		"sight_name" : "Sarangkot sunrise point",
+		"image_url" : "/images/sarangkot_sunrise.webp",
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 700,
+		"package_id" : 77,
+		"city_name" : "Pokhara",
+		"sight_name" : "En-route Annapurna Himalayan Ranges",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 701,
+		"package_id" : 77,
+		"city_name" : "Pokhara",
+		"sight_name" : "Boat ride in Phewa lake and Barahi Temple",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 702,
+		"package_id" : 77,
+		"city_name" : "Pokhara",
+		"sight_name" : "Devi's Fall",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 703,
+		"package_id" : 77,
+		"city_name" : "Pokhara",
+		"sight_name" : "International Mountain Museum",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 704,
+		"package_id" : 77,
+		"city_name" : "Pokhara",
+		"sight_name" : "Vindyabasini Temple",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 705,
+		"package_id" : 77,
+		"city_name" : "Kathmandu",
+		"sight_name" : "Bhaktapur Darbar Square",
+		"image_url" : "/images/bhaktapur_darbar_square.jpg",
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 706,
+		"package_id" : 77,
+		"city_name" : "Kathmandu",
+		"sight_name" : "Pashupatinath Temple",
+		"image_url" : "/images/pashupatinath_temple.png",
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 707,
+		"package_id" : 77,
+		"city_name" : "Kathmandu",
+		"sight_name" : "Budhanilkantha",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 708,
+		"package_id" : 77,
+		"city_name" : "Kathmandu",
+		"sight_name" : "Boudhanath Stupa",
+		"image_url" : "/images/boudhanath_stupa.jpg",
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 709,
+		"package_id" : 77,
+		"city_name" : "Kathmandu",
+		"sight_name" : "Swayambhunath Stupa",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 710,
+		"package_id" : 77,
+		"city_name" : "Kathmandu",
+		"sight_name" : "Kathmandu Darbar Square",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 711,
+		"package_id" : 78,
+		"city_name" : "Ubud",
+		"sight_name" : "Tirta Empul",
+		"image_url" : "/images/tirta_empul.jpg",
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 712,
+		"package_id" : 78,
+		"city_name" : "Ubud",
+		"sight_name" : "Tegallalang Rice Terraces",
+		"image_url" : "/images/tegallalang_rice_terraces.jpg",
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 713,
+		"package_id" : 78,
+		"city_name" : "Kintamani Tour",
+		"sight_name" : "Dormant volcano – Mount Batur",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 714,
+		"package_id" : 78,
+		"city_name" : "Kintamani Tour",
+		"sight_name" : "Coffee plantations",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 715,
+		"package_id" : 78,
+		"city_name" : "Kuta",
+		"sight_name" : "Tanah Lot Sea temple",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 716,
+		"package_id" : 78,
+		"city_name" : "Kuta",
+		"sight_name" : "Tanjung Benoa Beach",
+		"image_url" : "/images/tanjung_benoa_beach.jpg",
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 717,
+		"package_id" : 78,
+		"city_name" : "Kuta",
+		"sight_name" : "Shopping",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 718,
+		"package_id" : 78,
+		"city_name" : "Nusa Penida",
+		"sight_name" : "Kelingking Beach",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 719,
+		"package_id" : 78,
+		"city_name" : "Nusa Penida",
+		"sight_name" : "T-Rex cliff view point",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 720,
+		"package_id" : 78,
+		"city_name" : "Nusa Penida",
+		"sight_name" : "Angel’s Billabong",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 721,
+		"package_id" : 78,
+		"city_name" : "Nusa Penida",
+		"sight_name" : "Broken Beach",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:24:50",
+		"updated_at" : "2024-12-02 16:24:50"
+	},
+	{
+		"id" : 722,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Pinnawala Elephant Orphanage",
+		"image_url" : "/images/pinnawala_elephant_orphanage.webp",
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 723,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Temple of Tooth Relic",
+		"image_url" : "/images/temple_of_tooth_relic.webp",
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 724,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Kandy Lake",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 725,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Kandy Town Bazaar",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 726,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Arts and Crafts center",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 727,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Gems museum and Lapidary",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 728,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Peradeniya Botanical Gardens",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 729,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Anjaneyar (Hanuman) temple",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 730,
+		"package_id" : 81,
+		"city_name" : "Kandy",
+		"sight_name" : "Tea Factory",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 731,
+		"package_id" : 81,
+		"city_name" : "Nuwara Eliya",
+		"sight_name" : "Seetha Amman Temple",
+		"image_url" : "/images/seetha_amman_temple.jpg",
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 732,
+		"package_id" : 81,
+		"city_name" : "Nuwara Eliya",
+		"sight_name" : "Hakgala Botanical Gardens",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 733,
+		"package_id" : 81,
+		"city_name" : "Bentota",
+		"sight_name" : "Shopping at Ambalangoda",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 734,
+		"package_id" : 81,
+		"city_name" : "Bentota",
+		"sight_name" : "Bentota River Safari",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 735,
+		"package_id" : 81,
+		"city_name" : "Bentota",
+		"sight_name" : "Kosgoda Turtle Hatchery",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 736,
+		"package_id" : 81,
+		"city_name" : "Galle",
+		"sight_name" : "Galle Dutch Fort",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 737,
+		"package_id" : 81,
+		"city_name" : "Galle",
+		"sight_name" : "Galle Fort Clock Tower",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 738,
+		"package_id" : 81,
+		"city_name" : "Galle",
+		"sight_name" : "Lighthouse",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 739,
+		"package_id" : 81,
+		"city_name" : "Galle",
+		"sight_name" : "National Museum Galle",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 740,
+		"package_id" : 81,
+		"city_name" : "Colombo",
+		"sight_name" : "Kelaniya Temple",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 741,
+		"package_id" : 81,
+		"city_name" : "Colombo",
+		"sight_name" : "100 years old Clock tower",
+		"image_url" : "/images/colombo_clock_tower.jpg",
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 742,
+		"package_id" : 81,
+		"city_name" : "Colombo",
+		"sight_name" : "British built colonial buildings",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 743,
+		"package_id" : 81,
+		"city_name" : "Colombo",
+		"sight_name" : "Bandaranaike Memorial International Conference Hall",
+		"image_url" : null,
+		"created_at" : "2024-12-02 16:33:44",
+		"updated_at" : "2024-12-02 16:33:44"
+	},
+	{
+		"id" : 744,
+		"package_id" : 13,
+		"city_name" : "Mysore",
+		"sight_name" : "Art Gallery",
+		"image_url" : null,
+		"created_at" : "2024-12-02 18:46:10",
+		"updated_at" : "2024-12-02 18:46:10"
+	},
+	{
+		"id" : 745,
+		"package_id" : 80,
+		"city_name" : "Paro",
+		"sight_name" : "Paro Dzong",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 746,
+		"package_id" : 80,
+		"city_name" : "Paro",
+		"sight_name" : "Ta-Dzong",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 747,
+		"package_id" : 80,
+		"city_name" : "Paro",
+		"sight_name" : "Taktshang Monastery",
+		"image_url" : "/images/taktshang_monastery.webp",
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 748,
+		"package_id" : 80,
+		"city_name" : "Paro",
+		"sight_name" : "Drukgyel Dzong",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 749,
+		"package_id" : 80,
+		"city_name" : "Paro",
+		"sight_name" : "Chele-la-pass",
+		"image_url" : "/images/chele_la_pass.jpg",
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 750,
+		"package_id" : 80,
+		"city_name" : "Punakha",
+		"sight_name" : "Dochula viewpoint",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 751,
+		"package_id" : 80,
+		"city_name" : "Punakha",
+		"sight_name" : "Punakha Dzong",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 752,
+		"package_id" : 80,
+		"city_name" : "Punakha",
+		"sight_name" : "Punakha river",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 753,
+		"package_id" : 80,
+		"city_name" : "Thimphu",
+		"sight_name" : "BBS Clock Tower",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 754,
+		"package_id" : 80,
+		"city_name" : "Thimphu",
+		"sight_name" : "Tashichho Dzong",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 755,
+		"package_id" : 80,
+		"city_name" : "Thimphu",
+		"sight_name" : "Royal Takin Preserve",
+		"image_url" : "/images/royal_takin_preserve.jpg",
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 756,
+		"package_id" : 80,
+		"city_name" : "Thimphu",
+		"sight_name" : "Buddha Point",
+		"image_url" : "/images/buddha_point.jpg",
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 757,
+		"package_id" : 80,
+		"city_name" : "Thimphu",
+		"sight_name" : "National Library",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 758,
+		"package_id" : 80,
+		"city_name" : "Thimphu",
+		"sight_name" : "Handicraft Center",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	},
+	{
+		"id" : 759,
+		"package_id" : 80,
+		"city_name" : "Phuntsholing",
+		"sight_name" : "Kharbandi Gompa",
+		"image_url" : null,
+		"created_at" : "2024-12-02 19:04:30",
+		"updated_at" : "2024-12-02 19:04:30"
+	}
+]
