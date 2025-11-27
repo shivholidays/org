@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './components/Home';
 import Tours from './components/Tours';
 import AboutUs from './components/AboutUs';
@@ -26,7 +26,7 @@ function App() {
   );
 
   return (
-    <Router basename="/org">
+    <Router>
       <ScrollToTop />
       <Routes>
         <Route
