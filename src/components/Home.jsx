@@ -17,7 +17,7 @@ export default function Home({
                     playsInline
                     className="absolute inset-0 w-full h-full object-cover"
                 >
-                    <source src="/videos/homepagevideo.mp4" type="video/mp4" />
+                    <source src={`${import.meta.env.BASE_URL}videos/homepagevideo.mp4`} type="video/mp4" />
                 </video>
 
                 <div className="absolute inset-0 bg-black bg-opacity-50"></div>
@@ -65,7 +65,7 @@ export default function Home({
                             >
                                 <div className="relative h-64 overflow-hidden">
                                     <img
-                                        src={packageItem.package_image_url}
+                                        src={`${import.meta.env.BASE_URL}${packageItem.package_image_url}`}
                                         alt={packageItem.package_name}
                                         className="w-full h-full object-cover transform hover:scale-110 transition duration-500"
                                     />
@@ -139,7 +139,7 @@ export default function Home({
                             >
                                 <div className="relative h-64 overflow-hidden">
                                     <img
-                                        src={packageItem.package_image_url}
+                                        src={`${import.meta.env.BASE_URL}${packageItem.package_image_url}`}
                                         alt={packageItem.package_name}
                                         className="w-full h-full object-cover transform hover:scale-110 transition duration-500"
                                     />

@@ -18,7 +18,7 @@ export default function AboutUs() {
             {/* HERO SECTION */}
             <section className="relative h-[60vh] md:h-[70vh] flex items-center justify-center text-center text-white overflow-hidden">
                 <img
-                    src="/images/20.webp"
+                    src={`${import.meta.env.BASE_URL}images/20.webp`}
                     alt="About Us Banner"
                     className="absolute inset-0 w-full h-full object-cover"
                 />
@@ -44,7 +44,7 @@ export default function AboutUs() {
                         <div
                             className="w-full md:w-1/2 h-96 md:h-[500px] bg-cover bg-center rounded-2xl shadow-lg"
                             style={{
-                                backgroundImage: "url('/images/aboutuspic.jpg')",
+                                backgroundImage: `url(${import.meta.env.BASE_URL}images/aboutuspic.jpg)`,
                             }}
                         />
 

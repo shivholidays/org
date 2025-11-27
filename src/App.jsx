@@ -8,7 +8,6 @@ import RefundPolicy from './components/RefundPolicy';
 import TourDetailsPage from "./components/TourDetailsPage";
 import ScrollToTop from "./components/helpers/ScrollToTop";
 import packages from "./data/packages.json";
-// import sightseeing from "./data/sightseeing.json";
 
 function App() {
 
@@ -27,7 +26,7 @@ function App() {
   );
 
   return (
-    <Router>
+    <Router basename="/org">
       <ScrollToTop />
       <Routes>
         <Route

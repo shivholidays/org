@@ -11,7 +11,7 @@ export default function TermsAndConditions() {
             >
                 {/* Background Image */}
                 <img
-                    src="/images/tnc.webp"
+                    src={`${import.meta.env.BASE_URL}images/tnc.webp`}
                     alt="Terms and Conditions Banner"
                     className="absolute inset-0 w-full h-full object-cover"
                 />

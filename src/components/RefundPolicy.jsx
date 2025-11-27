@@ -11,7 +11,7 @@ export default function RefundPolicy() {
             >
                 {/* Background Image */}
                 <img
-                    src="/images/kullu_valley.jpg"
+                    src={`${import.meta.env.BASE_URL}images/kullu_valley.jpg`}
                     alt="Refund Policy Banner"
                     className="absolute inset-0 w-full h-full object-cover"
                 />
