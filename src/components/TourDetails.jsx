@@ -231,7 +231,7 @@ export default function TourDetails({ tour }) {
             </section>
 
             {/* TOUR DETAILS + CONTACT FORM */}
-            <section className="py-16 bg-white">
+            <section className="py-16 bg-white" id="contactForm">
                 <div className="container mx-auto px-6">
                     <div className="max-w-4xl mx-auto">
                         <div className="mb-12" data-aos="fade-up" id="contactForm">
@@ -428,7 +428,7 @@ export default function TourDetails({ tour }) {
                         Contact us to customize your itinerary or get more information
                     </p>
                     <a
-                        href="#contactForm"
+                        href={`#/tours/${tour.id}#contactForm`}
                         className="inline-block bg-white text-[rgb(241,93,48)] hover:bg-gray-100 px-8 py-4 rounded-full text-lg font-semibold transition duration-300 transform hover:scale-105"
                     >
                         Contact Us Now
