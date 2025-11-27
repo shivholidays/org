@@ -67,7 +67,7 @@ export default function AboutUs() {
                             </p>
 
                             <a
-                                href="/tours"
+                                href="#/tours"
                                 className="inline-block bg-brand hover:bg-brand/90 px-6 py-3 rounded-lg font-semibold transition text-white"
                             >
                                 Explore Packages

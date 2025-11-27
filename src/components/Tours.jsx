@@ -215,7 +215,7 @@ function TourCard({ data, isInternational, delay }) {
                 </div>
 
                 <a
-                    href={`/tours/${data.id}`}
+                    href={`#/tours/${data.id}`}
                     className={`block w-full text-center py-2 rounded-lg font-semibold transition text-white ${
                         isInternational
                             ? "bg-coral-500 hover:bg-coral-600"

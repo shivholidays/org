@@ -52,7 +52,7 @@ export default function TourDetails({ tour }) {
             >
                 <div className="absolute inset-0 overflow-hidden">
                     <img
-                        src={tour.package_image_url}
+                        src={`${import.meta.env.BASE_URL}${tour.package_image_url}`}
                         alt={tour.package_name}
                         className="w-full h-full object-cover"
                     />
@@ -104,7 +104,7 @@ export default function TourDetails({ tour }) {
                                     >
                                         <div className="relative h-48 overflow-hidden">
                                             <img
-                                                src={sight.image_url}
+                                                src={`${import.meta.env.BASE_URL}${sight.image_url}`}
                                                 alt={sight.sight_name}
                                                 className="w-full h-full object-cover"
                                                 onError={(e) => {
