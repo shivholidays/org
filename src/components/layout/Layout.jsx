@@ -182,7 +182,7 @@ function Footer() {
 
                 {/* ABOUT */}
                 <div data-aos="fade-up">
-                    <a href="/">
+                    <a href= {`${import.meta.env.BASE_URL}`}>
                         <img
                             src={`${import.meta.env.BASE_URL}images/SHIV HOLIDAYS LOGO.png`}
                             className="h-12 mb-4"
