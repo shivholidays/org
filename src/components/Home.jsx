@@ -65,7 +65,7 @@ export default function Home({
                             >
                                 <div className="relative h-64 overflow-hidden">
                                     <img
-                                        src={`${import.meta.env.BASE_URL}${packageItem.package_image_url}`}
+                                        src={`${import.meta.env.BASE_URL}${packageItem.package_image_url.replace(/^\//, "")}`}
                                         alt={packageItem.package_name}
                                         className="w-full h-full object-cover transform hover:scale-110 transition duration-500"
                                     />
@@ -139,7 +139,7 @@ export default function Home({
                             >
                                 <div className="relative h-64 overflow-hidden">
                                     <img
-                                        src={`${import.meta.env.BASE_URL}${packageItem.package_image_url}`}
+                                        src={`${import.meta.env.BASE_URL}${packageItem.package_image_url.replace(/^\//, "")}`}
                                         alt={packageItem.package_name}
                                         className="w-full h-full object-cover transform hover:scale-110 transition duration-500"
                                     />

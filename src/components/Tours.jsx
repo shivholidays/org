@@ -41,7 +41,7 @@ export default function Tours({ domesticPackages = [], internationalPackages = [
                 data-aos="fade"
             >
                 <img
-                    src={`${import.meta.env.BASE_URL}images/tourpage.jpg`}
+                    src={(`${import.meta.env.BASE_URL}images/tourpage.jpg`).replace(/\/\//g, "/")}
                     className="absolute inset-0 w-full h-full object-cover"
                     alt="Tours"
                 />
@@ -184,7 +184,7 @@ function TourCard({ data, isInternational, delay }) {
         >
             <div className="relative h-56 overflow-hidden">
                 <img
-                    src={`${import.meta.env.BASE_URL}${data.package_image_url}`}
+                    src={`${import.meta.env.BASE_URL}${data.package_image_url.replace(/^\//, "")}`}
                     alt={data.package_name}
                     className="w-full h-full object-cover"
                 />
